@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6rRPAof3hY/7V/Sv+R31COzlAcLi69nTgdKb8eiXMrUQc3mqUnsPxgHu964scjd1sEk8Juqi3dAJ7W8I/gYKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AzureDevops\\Git\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RajeevP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RajeevP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RajeevP\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\RajeevP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\RajeevP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\RajeevP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
